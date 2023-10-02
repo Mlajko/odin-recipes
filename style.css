@@ -1,0 +1,38 @@
+h1,
+h3 {
+    color: green;
+    background-color: rgb(228, 142, 81);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(187, 255, 0);
+}
+
+* {
+    background-color:rgb(243, 207, 129);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* text-align: center; */
+    color:purple;
+}
+
+div {
+    font-style: italic;
+    font-weight: 600;
+}
+
+.images {
+    height: auto;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+button {
+    background-color: orange;
+}
